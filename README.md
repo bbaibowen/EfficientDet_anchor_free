@@ -21,8 +21,8 @@ There are some problems in EfficientDet_anchor-based，which has low Maps and sl
 
 
 ## Reference
-  [FOCS](https://github.com/tianzhi0549/FCOS) \n
-  [EfficientDet](https://arxiv.org/pdf/1911.09070.pdf)
+  *  [FOCS](https://github.com/tianzhi0549/FCOS) \n
+  *  [EfficientDet](https://arxiv.org/pdf/1911.09070.pdf)
 
 
 

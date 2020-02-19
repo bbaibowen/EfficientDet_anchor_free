@@ -8,6 +8,6 @@ This is EfficientDet anchor-free in Pytorch,i also completed EfficientDet_anchor
 
 
 ## Results
-| :-----  |This report| Paper   |
+| |This report| Paper   |
 | :-----  | :-----    | :------ |
-| :-----  |anchor-free|anchor-based|anchor-based|
+| |anchor-free|anchor-based|anchor-based|
